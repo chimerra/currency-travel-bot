@@ -160,3 +160,9 @@ python travel_wallet_bot.py
 он использует реальный `api.exchangerate.host` (endpoint `/convert` с `access_key`),  
 хранит данные в SQLite и предоставляет удобное inline‑меню без необходимости постоянно вызывать слэш‑команды.
 
+Пример интерфейса:
+<img width="494" height="520" alt="изображение" src="https://github.com/user-attachments/assets/6cc5a3e7-30ae-4268-9ca0-6fb740895de3" /> <img width="497" height="371" alt="изображение" src="https://github.com/user-attachments/assets/e08f6838-ed5d-479c-adac-d44955425389" />
+
+
+
+
